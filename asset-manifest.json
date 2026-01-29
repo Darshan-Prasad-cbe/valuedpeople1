@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valuedpeople1/static/css/main.625d6637.css",
+    "main.js": "/valuedpeople1/static/js/main.83b909db.js",
+    "static/media/bootstrap-icons.woff?": "/valuedpeople1/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/valuedpeople1/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/valuedpeople1/index.html",
+    "main.625d6637.css.map": "/valuedpeople1/static/css/main.625d6637.css.map",
+    "main.83b909db.js.map": "/valuedpeople1/static/js/main.83b909db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.625d6637.css",
+    "static/js/main.83b909db.js"
+  ]
+}
